@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Hello World
 this is new file from existing local repo
+=======
+aaa
+this is the first file and new branch of demoproject
+>>>>>>> 6e022f383afc2690d9b0f62a8a3a2ad27c98ec95
+file of existing demo project
